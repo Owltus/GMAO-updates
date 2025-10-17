@@ -78,6 +78,7 @@ Les nouvelles versions sont publiées régulièrement dans ce repository. Pour m
 - 📖 Consultez la [documentation complète](https://github.com/Owltus/GMAO-updates/wiki) (à venir)
 - 🐛 Signalez un bug dans les [Issues](https://github.com/Owltus/GMAO-updates/issues)
 - 💡 Proposez des améliorations dans les [Discussions](https://github.com/Owltus/GMAO-updates/discussions)
+- 📧 Contact direct : pl.bessonneau@gmail.com
 
 ### Configuration système requise
 
@@ -86,7 +87,7 @@ Les nouvelles versions sont publiées régulièrement dans ce repository. Pour m
 - **Espace disque** : 200 MB pour l'application + espace pour vos données
 - **Résolution** : 1280x720 minimum
 
-## Développement
+## À propos du développement
 
 Cette application a été développée par un technicien de maintenance sans compétences particulières en programmation, grâce à l'assistance de l'IA Claude Sonnet 4. Elle démontre qu'il est possible de créer des outils professionnels en se concentrant sur les besoins métier.
 
@@ -98,7 +99,19 @@ Cette application a été développée par un technicien de maintenance sans com
 
 ## Licence
 
-Cette application est distribuée sous licence **MIT**. Vous êtes libre de l'utiliser dans un contexte professionnel ou personnel.
+### 🆓 Gratuit pour usage personnel
+- ✅ Particuliers et usage personnel
+- ✅ Étudiants et enseignants
+- ✅ Associations à but non lucratif
+- ✅ Auto-entrepreneurs (CA < 30k€/an)
+
+### 💼 Licence commerciale requise
+- 🏢 Entreprises et sociétés
+- 💰 Usage commercial ou professionnel
+- 🏭 Collectivités et services publics
+- 📧 Tarifs sur devis uniquement
+
+**[Voir les détails de la licence](LICENSE.md)** | **[Demander un devis](mailto:pl.bessonneau@gmail.com?subject=Demande%20de%20licence%20commerciale%20GMAO)**
 
 ## Changelog
 
@@ -109,3 +122,5 @@ Consultez le [CHANGELOG](https://github.com/Owltus/GMAO-updates/releases) pour l
 **Version actuelle** : Voir la [dernière release](https://github.com/Owltus/GMAO-updates/releases/latest)
 
 _GMAO - Une solution simple et efficace pour votre gestion de maintenance_
+
+Développé avec passion par un technicien pour des techniciens.
